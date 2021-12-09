@@ -1,9 +1,10 @@
 <h1 align="center">Hi, I'm Mishthi Singhal</h1>
 <h3 align="center">A tech enthusiast from India</h3>
 
-- I’m currently learning **JS, DSA and Python**
+- I’m currently learning **Nodejs,MongoDB and DSA**
 
 - Reach me at: **mishthi12singhal06@gmail.com**
+- About me: **https://github.com/Mishthisinghal/portfolio**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
