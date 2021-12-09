@@ -19,4 +19,12 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mishthisinghal&show_icons=true&locale=en" alt="mishthisinghal" /></p>
 
+| Project Name | Description |
+| ------------- | ------------- |
+| [My Portfolio](https://mishthisinghal.github.io/portfolio/)  | Portfolio Website |
+| [Memory Game](https://mishthisinghal.github.io/memory-game/)  | Memory Game which displays score and time left of player |  
+| [Weather App]( https://mishthisinghal.github.io/weather-app/) | Displays temperature and weather conditions |  
+| [Analog Clock]( https://mishthisinghal.github.io/analog_clock/) | Shows the current time | 
+| [Scientific Calculator](https://mishthisinghal.github.io/calculator/) | Can perform several scientific calculations |  
+| [BMI Calculator](https://github.com/Mishthisinghal/bmicalculator) | Calculates body mass index | 
 
