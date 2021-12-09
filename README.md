@@ -28,3 +28,12 @@
 | [Scientific Calculator](https://mishthisinghal.github.io/calculator/) | Can perform several scientific calculations |  
 | [BMI Calculator](https://github.com/Mishthisinghal/bmicalculator) | Calculates body mass index | 
 
+
+
+<p><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=mishthisinghal&show_icons=true&locale=en&layout=compact&theme=dark" alt="mishthisinghal" /></p>
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mishthisinghal&show_icons=true&locale=en&theme=dark" alt="mishthisinghal" /></p>
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mishthisinghal&theme=dark" alt="mishthisinghal" /></p>
