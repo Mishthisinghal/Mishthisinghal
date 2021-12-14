@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Mishthi Singhal</h1>
 <h3 align="center">A Tech Enthusiast from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mishthisinghal&label=Profile%20views&color=0e75b6&style=flat" alt="mitushi-23" /> </p>
+
 - I’m currently learning **Nodejs,MongoDB and DSA**
 
 - Reach me at: **mishthi12singhal06@gmail.com**
