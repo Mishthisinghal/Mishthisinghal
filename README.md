@@ -28,6 +28,7 @@
 | [Analog Clock]( https://mishthisinghal.github.io/analog_clock/) | Shows the current time | 
 | [Scientific Calculator](https://mishthisinghal.github.io/calculator/) | Can perform several scientific calculations |  
 | [BMI Calculator](https://github.com/Mishthisinghal/bmicalculator) | Calculates body mass index | 
+| [Microsoft Teams Attendance Automator](https://github.com/Python-ProT) | This attendance automator manifests the meeting organizers to easily sort the absentees and presentees according to their scholar number. It also generates attendance of each student in percentage and highlights it if it is less than the threshold value. |  
 
 
 
