@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mishthisinghal&label=Profile%20views&color=0e75b6&style=flat" alt="mitushi-23" /> </p>
 
-- I’m currently learning **Nodejs,MongoDB and DSA**
+- I’m currently learning **DSA and Full Stack Web Development**
 
 - Reach me at: **mishthi12singhal06@gmail.com**
 - About me: **https://github.com/Mishthisinghal/portfolio**
@@ -23,7 +23,7 @@
 | Project Name | Description |
 | ------------- | ------------- |
 | [My Portfolio](https://mishthisinghal.github.io/portfolio/)  | Portfolio Website |
-| [Health-Tracker](https://health-tracker-1.herokuapp.com/)  | A website made using Nodejs,Express.js and mongodb to track health status |
+| [Health-Analyzer](https://health-tracker-1.herokuapp.com/)  | A website made using Nodejs,Express.js and mongodb to track health status |
 | [Memory Game](https://mishthisinghal.github.io/memory-game/)  | Memory Game which displays score and time left of player |  
 | [Weather App]( https://mishthisinghal.github.io/weather-app/) | Displays temperature and weather conditions |  
 | [Analog Clock]( https://mishthisinghal.github.io/analog_clock/) | Shows the current time | 
